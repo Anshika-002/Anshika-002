@@ -88,16 +88,6 @@ I'm **Anshika Pandey**, a Full Stack Developer passionate about building modern,
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshika-002&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 <div align="center">
