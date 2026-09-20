@@ -2,152 +2,273 @@
 
 # 👋 Hi, I'm Anshika Pandey
 
-### 💻 Full Stack Developer | Web Developer | Tech Enthusiast
+### 💻 Full Stack Developer • Web Developer • Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+JavaScript;Python+%7C+Firebase+%7C+Web+Development;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+Python;Building+Modern+Web+Experiences;Turning+Ideas+Into+Digital+Products;Always+Learning+%26+Building+%F0%9F%9A%80" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Anshika-002&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Anshika-002&label=PROFILE+VIEWS&style=for-the-badge" />
-
-</div>
-
 ---
-
-## 👩‍💻 About Me
-
-I'm **Anshika Pandey**, a Full Stack Developer passionate about building modern, responsive and user-friendly web experiences.
-
-- 💻 Interested in **Full Stack Development**
-- ⚛️ Building projects with **React & JavaScript**
-- 🟢 Exploring **Node.js & Backend Development**
-- 🐍 Working with **Python**
-- 🔥 Using **Firebase** for modern applications
-- 🎨 Interested in modern UI/UX
-- 🚀 Always learning and building new projects
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,firebase,git,github,vscode&perline=5" />
+# 🧊 ABOUT ME
 
 </div>
 
----
+<table>
+<tr>
 
-## 🚀 Featured Project
+<td width="55%">
+
+### 👩‍💻 Anshika Pandey
+
+I'm a **Full Stack Developer** passionate about creating modern, responsive and user-friendly web experiences.
+
+🔭 Building modern web projects
+
+⚛️ Working with **React & JavaScript**
+
+🟢 Exploring **Node.js & Backend Development**
+
+🐍 Working with **Python**
+
+🔥 Building applications with **Firebase**
+
+🎨 Interested in modern **UI/UX**
+
+🚀 Always learning and building
+
+</td>
+
+<td width="45%" align="center">
+
+### ⚡ DEVELOPER MODE
+
+**Developer:** Anshika Pandey
+
+**Focus:** Full Stack Development
+
+**Frontend:** React • JavaScript
+
+**Backend:** Node.js
+
+**Database:** Firebase
+
+**Language:** Python
+
+**Status:** Building 🚀
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
 
 <div align="center">
 
-### 🎓 JMD Education Worldwide
+# 💎 TECH STACK
 
-**MBBS Abroad Education Consultancy Platform**
+### ⚡ Frontend
 
-🌍 Russia • Georgia • Uzbekistan • Kazakhstan
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
+
+<br><br>
+
+### 🗄️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb&theme=dark" />
+
+<br><br>
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🚀 FEATURED PROJECT
+
+## 🎓 JMD Education Worldwide
+
+### MBBS Abroad Education Consultancy Platform
+
+Helping students explore medical education opportunities around the world.
+
+**Russia • Georgia • Uzbekistan • Kazakhstan**
 
 <br>
 
 <a href="https://www.jmdeducation.co.in/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-JMD_EDUCATION-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_VISIT_WEBSITE-JMD_EDUCATION-7C3AED?style=for-the-badge" />
 </a>
 
+&nbsp;
+
 <a href="https://github.com/Anshika-002/JMD-Education">
-<img src="https://img.shields.io/badge/GITHUB-VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-**WordPress • HTML • CSS • JavaScript • Google Sheets**
+<img src="https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshika-002&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-002&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anshika-002&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-
-</div>
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-### “Learn. Build. Improve. Repeat.”
-
-💻 Turning ideas into digital experiences.
-
-🚀 Building one project at a time.
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.jmdeducation.co.in/">
-<img src="https://img.shields.io/badge/Website-JMD_Education-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/Anshika-002">
-<img src="https://img.shields.io/badge/GitHub-Anshika--002-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
----
-
-<h2 align="center">🐍 My Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake.svg">
-    <img alt="Anshika Pandey contribution snake"
-         src="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 <br>
 
+---
+
 <div align="center">
+
+# 📊 GITHUB ANALYTICS
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Anshika-002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" />
+
+<br><br>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🔥 DEVELOPER STREAK
+
+<img src="https://streak-stats.demolab.com?user=Anshika-002&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=A855F7" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🐍 MY CONTRIBUTION GRAPH
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake.svg">
+
+<img
+alt="Anshika Pandey Contribution Snake"
+src="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake.svg"
+width="100%">
+
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🌱 CURRENTLY LEARNING
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 💡 DEVELOPER PHILOSOPHY
+
+### `CODE` → `CREATE` → `LEARN` → `IMPROVE` → `REPEAT`
+
+<br>
+
+### 💻 Turning ideas into digital experiences.
+
+### 🚀 Building one project at a time.
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🤝 CONNECT WITH ME
+
+<a href="https://www.jmdeducation.co.in/">
+<img src="https://img.shields.io/badge/WEBSITE-JMD_EDUCATION-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Anshika-002">
+<img src="https://img.shields.io/badge/GITHUB-ANSHIKA--002-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br><br>
+
+---
+
+<div align="center">
+
+# ⚡ CODE • CREATE • INNOVATE
 
 ### ⭐ Thanks for visiting my profile!
 
-**Code • Create • Learn • Grow 🚀**
+**Full Stack Developer • Building the Future One Project at a Time 🚀**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:A855F7&height=120&section=footer" width="100%" />
 
 </div>
