@@ -148,19 +148,6 @@ Helping students explore medical education opportunities around the world.
 
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Anshika-002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" />
-
-<br><br>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
-
-</div>
-
-<br>
 
 ---
 
