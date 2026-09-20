@@ -138,7 +138,20 @@ I'm **Anshika Pandey**, a Full Stack Developer passionate about building modern,
 </a>
 
 </div>
+---
 
+<h2 align="center">🐍 My Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake.svg">
+    <img alt="Anshika Pandey contribution snake"
+         src="https://raw.githubusercontent.com/Anshika-002/Anshika-002/gh-pages/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 <br>
 
 <div align="center">
